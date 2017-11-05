@@ -1,6 +1,5 @@
 import React from 'react';
 import App from './App';
-import HelloWorldApp from './App';
 
 import renderer from 'react-test-renderer';
 
